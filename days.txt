@@ -1,0 +1,8 @@
+Day 0
+Learnt about the Basics of Machine Learning and Understood the basic terms i.e. Feature, Labels, Supervised Learning, Unsupervised Learning, Regressor, etc.
+
+Day 1
+Installed sklearn and  understood some more term i.e. Testing, Training, Spillting, Linear and Multiple Regression, etc.
+
+Day 2
+Created my First ML Regressor Model using sklearn and visulized it using matplotlib. You can have a look at code in first_ml_model.py
