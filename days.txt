@@ -11,4 +11,4 @@ Day 3
 Learnt about Loss Functions and Gradient Descent & understood how Linear Regression Model works by calculating Sum of Squared Error using Calculus
 
 Day 4
-Understood Mini Batch and Stochastic Gradient Descent. Implemented KNeighbour Classifier to Iris Dataset
+Understood Mini Batch and Stochastic Gradient Descent. Implemented KNeighbour Classifier to Iris Dataset. You can have a look at code in 02_kneighbour_classifier.py
