@@ -9,3 +9,6 @@ Created my First ML Regressor Model using sklearn and visulized it using matplot
 
 Day 3
 Learnt about Loss Functions and Gradient Descent & understood how Linear Regression Model works by calculating Sum of Squared Error using Calculus
+
+Day 4
+Understood Mini Batch and Stochastic Gradient Descent. Implemented KNeighbour Classifier to Iris Dataset

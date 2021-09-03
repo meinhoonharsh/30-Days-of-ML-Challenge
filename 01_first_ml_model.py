@@ -1,4 +1,4 @@
-# Day 3 of 30 Days of ML Challenge
+# Day 2 of 30 Days of ML Challenge
 
 # Import modules
 import numpy as np                                     # pip install numpy
