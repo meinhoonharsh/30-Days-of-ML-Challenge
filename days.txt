@@ -12,3 +12,6 @@ Learnt about Loss Functions and Gradient Descent & understood how Linear Regress
 
 Day 4
 Understood Mini Batch and Stochastic Gradient Descent. Implemented KNeighbour Classifier to Iris Dataset. You can have a look at code in 02_kneighbour_classifier.py
+
+Day 5
+Understood How K Nearest Neighbor works, Overfitting, Underfitting and Logistic Regression
