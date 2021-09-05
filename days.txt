@@ -15,3 +15,6 @@ Understood Mini Batch and Stochastic Gradient Descent. Implemented KNeighbour Cl
 
 Day 5
 Understood How K Nearest Neighbor works, Overfitting, Underfitting and Logistic Regression
+
+Day 6
+Created a ML Model for Logistic Regression using sklearn and visulized it using matplotlib.
