@@ -18,3 +18,9 @@ Understood How K Nearest Neighbor works, Overfitting, Underfitting and Logistic 
 
 ### Day 6
 Created a ML Model for Logistic Regression using sklearn and visulized it using matplotlib. You can have a look at code in [03_logistic_regression.py](03_logistic_regression.py)
+
+### Day 7
+Completed Logistic Regression Model and started working on a fully fledged model using Boston Housing Dataset
+
+### Day 8
+Still working on yesterday's Model. while working on it studied about Correlation, Imputed , Sklearn DesigningStill working on yesterday's Model. while working on it studied about Correlation, Imputed , Sklearn Designing
