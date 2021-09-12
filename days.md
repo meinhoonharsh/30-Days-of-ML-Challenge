@@ -27,3 +27,6 @@ Still working on yesterday's Model. while working on it studied about Correlatio
 
 ### Day 9
 Finally Completed Project using Boston housing Dataset (took 3 days to complete 🙃). Learnt about Pipeline, Cross Validation & Joblibs.
+
+### Day 10
+started Working on a Project using MNIST Dataset
