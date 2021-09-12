@@ -24,3 +24,6 @@ Completed Logistic Regression Model and started working on a fully fledged model
 
 ### Day 8
 Still working on yesterday's Model. while working on it studied about Correlation, Imputed , Sklearn DesigningStill working on yesterday's Model. while working on it studied about Correlation, Imputed , Sklearn Designing
+
+### Day 9
+Finally Completed Project using Boston housing Dataset (took 3 days to complete 🙃). Learnt about Pipeline, Cross Validation & Joblibs.
