@@ -30,3 +30,6 @@ Finally Completed Project using Boston housing Dataset (took 3 days to complete 
 
 ### Day 10
 started Working on a Project using MNIST Dataset
+
+### Day 12, 13
+Studied about Confusion Matrix, Precision, Recall
