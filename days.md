@@ -33,3 +33,6 @@ started Working on a Project using MNIST Dataset
 
 ### Day 12, 13
 Studied about Confusion Matrix, Precision, Recall
+
+### Day 14 
+Implemented Precision, Recall, F1-Factor using sklearn
