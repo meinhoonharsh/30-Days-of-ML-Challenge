@@ -36,3 +36,6 @@ Studied about Confusion Matrix, Precision, Recall
 
 ### Day 14 
 Implemented Precision, Recall, F1-Factor using sklearn
+
+### Day 15
+Started a OpenCV Tutorial by freecodecamp. Studied about reading Image and Video using openCV
