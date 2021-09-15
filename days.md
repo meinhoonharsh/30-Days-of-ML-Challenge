@@ -39,3 +39,6 @@ Implemented Precision, Recall, F1-Factor using sklearn
 
 ### Day 15
 Started a OpenCV Tutorial by freecodecamp. Studied about reading Image and Video using openCV
+
+### Day 16
+Studied about Manipulating Images using Opencv. i.e. Scaling, Cropping, Translating, Rotating, Drawing Shapes on Images
